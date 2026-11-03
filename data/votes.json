@@ -76,7 +76,8 @@
       }
     ],
     "verification_note": "L'acta identifica nominalment 10 vots contraris i 5 abstencions; els altres 26 membres voten a favor sense relació nominal en aquest extracte. No s'infereix partit a partir del nom.",
-    "source_page": 2
+    "source_page": 2,
+    "outcome": "approved"
   },
   {
     "id": "bcn-2024-06-28-m2327-1383",
@@ -159,7 +160,8 @@
       }
     ],
     "verification_note": "Vots contraris i abstencions nominals transcrits de l'acta; els favorables consten com la resta de membres, sense atribució nominal.",
-    "source_page": 14
+    "source_page": 14,
+    "outcome": "approved"
   },
   {
     "id": "bcn-2025-01-31-m2327-2137",
@@ -254,7 +256,8 @@
       }
     ],
     "verification_note": "Acta oficial, pàgina 8: 12 vots en contra, 5 abstencions i 24 a favor. Els noms contraris i abstencions són explícits. Sense atribució a partit.",
-    "source_page": 8
+    "source_page": 8,
+    "outcome": "approved"
   },
   {
     "id": "bcn-2025-01-31-m2327-2141",
@@ -341,7 +344,8 @@
       }
     ],
     "verification_note": "Vots contraris i abstencions nominals transcrits de l'acta; els favorables consten com la resta de membres, sense atribució nominal.",
-    "source_page": 8
+    "source_page": 8,
+    "outcome": "approved"
   },
   {
     "id": "bcn-2024-06-28-esdeveniments-ciutat",
@@ -424,7 +428,8 @@
         "position": "abstain"
       }
     ],
-    "verification_note": "Acta oficial, pàgina 14: 25 a favor, 6 en contra i 10 abstencions; només s'atribueixen els vots nominals expressament indicats."
+    "verification_note": "Acta oficial, pàgina 14: 25 a favor, 6 en contra i 10 abstencions; només s'atribueixen els vots nominals expressament indicats.",
+    "outcome": "approved"
   },
   {
     "id": "bcn-2025-01-31-m2327-2143",
@@ -467,7 +472,8 @@
         "position": "abstain"
       }
     ],
-    "verification_note": "APROVADA amb text transaccionat. Acta pàgina 10; 35 a favor, 2 en contra i 4 abstencions."
+    "verification_note": "APROVADA amb text transaccionat. Acta pàgina 10; 35 a favor, 2 en contra i 4 abstencions.",
+    "outcome": "approved_amended"
   },
   {
     "id": "bcn-2025-01-31-m2327-2128",
@@ -626,7 +632,8 @@
         "position": "no"
       }
     ],
-    "verification_note": "REBUTJADA. Acta pàgina 12; 35 en contra i 6 a favor. El resultat rebutja la proposta, no aprova les mesures descrites."
+    "verification_note": "REBUTJADA. Acta pàgina 12; 35 en contra i 6 a favor. El resultat rebutja la proposta, no aprova les mesures descrites.",
+    "outcome": "rejected"
   },
   {
     "id": "bcn-2025-01-31-m2327-2138",
@@ -749,6 +756,7 @@
         "position": "abstain"
       }
     ],
-    "verification_note": "APROVADA. Acta pàgina 13; 15 a favor, 6 en contra i 20 abstencions."
+    "verification_note": "APROVADA. Acta pàgina 13; 15 a favor, 6 en contra i 20 abstencions.",
+    "outcome": "approved"
   }
 ]
