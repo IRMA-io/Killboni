@@ -75,7 +75,8 @@
         "position": "abstain"
       }
     ],
-    "verification_note": "L'acta identifica nominalment 10 vots contraris i 5 abstencions; els altres 26 membres voten a favor sense relació nominal en aquest extracte. No s'infereix partit a partir del nom."
+    "verification_note": "L'acta identifica nominalment 10 vots contraris i 5 abstencions; els altres 26 membres voten a favor sense relació nominal en aquest extracte. No s'infereix partit a partir del nom.",
+    "source_page": 2
   },
   {
     "id": "bcn-2024-06-28-m2327-1383",
@@ -157,7 +158,8 @@
         "position": "abstain"
       }
     ],
-    "verification_note": "Vots contraris i abstencions nominals transcrits de l'acta; els favorables consten com la resta de membres, sense atribució nominal."
+    "verification_note": "Vots contraris i abstencions nominals transcrits de l'acta; els favorables consten com la resta de membres, sense atribució nominal.",
+    "source_page": 14
   },
   {
     "id": "bcn-2025-01-31-m2327-2137",
@@ -241,9 +243,18 @@
       {
         "name": "Suriñach",
         "position": "abstain"
+      },
+      {
+        "name": "de Oro-Pulido",
+        "position": "no"
+      },
+      {
+        "name": "Senderos",
+        "position": "no"
       }
     ],
-    "verification_note": "Vots contraris i abstencions nominals transcrits de l'acta; els favorables consten com la resta de membres, sense atribució nominal."
+    "verification_note": "Acta oficial, pàgina 8: 12 vots en contra, 5 abstencions i 24 a favor. Els noms contraris i abstencions són explícits. Sense atribució a partit.",
+    "source_page": 8
   },
   {
     "id": "bcn-2025-01-31-m2327-2141",
@@ -329,6 +340,90 @@
         "position": "no"
       }
     ],
-    "verification_note": "Vots contraris i abstencions nominals transcrits de l'acta; els favorables consten com la resta de membres, sense atribució nominal."
+    "verification_note": "Vots contraris i abstencions nominals transcrits de l'acta; els favorables consten com la resta de membres, sense atribució nominal.",
+    "source_page": 8
+  },
+  {
+    "id": "bcn-2024-06-28-esdeveniments-ciutat",
+    "title": "Requisits de transparència, retorn als barris i impacte dels grans esdeveniments",
+    "institution": "Ajuntament de Barcelona · Ple del Consell Municipal",
+    "date": "2024-06-28",
+    "topic": "Governança i transparència",
+    "source_document": "Acta oficial del Ple ordinari de 28/06/2024, pàgina 14, proposta anterior a M2327/1383",
+    "source_url": "https://ajuntament.barcelona.cat/sites/default/files/2024-07/CPlenari-28-06-2024-ACTA.pdf",
+    "source_page": 14,
+    "totals": {
+      "yes": 25,
+      "no": 6,
+      "abstain": 10
+    },
+    "party_votes": [],
+    "individual_votes": [
+      {
+        "name": "Sirera",
+        "position": "no"
+      },
+      {
+        "name": "Milián",
+        "position": "no"
+      },
+      {
+        "name": "Martí de Villasante",
+        "position": "no"
+      },
+      {
+        "name": "Esteller",
+        "position": "no"
+      },
+      {
+        "name": "de Oro-Pulido",
+        "position": "no"
+      },
+      {
+        "name": "Senderos",
+        "position": "no"
+      },
+      {
+        "name": "Collboni",
+        "position": "abstain"
+      },
+      {
+        "name": "Gay",
+        "position": "abstain"
+      },
+      {
+        "name": "Bonet",
+        "position": "abstain"
+      },
+      {
+        "name": "Batlle",
+        "position": "abstain"
+      },
+      {
+        "name": "Escudé",
+        "position": "abstain"
+      },
+      {
+        "name": "Villanueva",
+        "position": "abstain"
+      },
+      {
+        "name": "Rabell",
+        "position": "abstain"
+      },
+      {
+        "name": "Valls",
+        "position": "abstain"
+      },
+      {
+        "name": "Gil",
+        "position": "abstain"
+      },
+      {
+        "name": "Marcé",
+        "position": "abstain"
+      }
+    ],
+    "verification_note": "Acta oficial, pàgina 14: 25 a favor, 6 en contra i 10 abstencions; només s'atribueixen els vots nominals expressament indicats."
   }
 ]
