@@ -6,12 +6,75 @@
     "date": "2025-06-27",
     "topic": "Governança i transparència",
     "source_document": "Acta oficial del Ple extraordinari de 27/06/2025, pàg. 1–2 (Gaseta Municipal, 01/08/2025)",
-    "source_url": "https://bcnroc.ajuntament.barcelona.cat/jspui/bitstream/11703/141755/1/ACTAConsellMunicipalsessioextraordinariade27dejunyde2025..pdf",
+    "source_url": "https://ajuntament.barcelona.cat/sites/default/files/2025-08/ca_ca_CPlenari%20EXT-27-06-25-Acta.pdf",
     "totals": {
       "yes": 26,
       "no": 10,
       "abstain": 5
     },
-    "party_votes": []
+    "party_votes": [],
+    "individual_votes": [
+      {
+        "name": "Collboni",
+        "position": "no"
+      },
+      {
+        "name": "Gay",
+        "position": "no"
+      },
+      {
+        "name": "Bonet",
+        "position": "no"
+      },
+      {
+        "name": "Batlle",
+        "position": "no"
+      },
+      {
+        "name": "Escudé",
+        "position": "no"
+      },
+      {
+        "name": "Villanueva",
+        "position": "no"
+      },
+      {
+        "name": "Rabell",
+        "position": "no"
+      },
+      {
+        "name": "Valls",
+        "position": "no"
+      },
+      {
+        "name": "Gil",
+        "position": "no"
+      },
+      {
+        "name": "Marcé",
+        "position": "no"
+      },
+      {
+        "name": "Alamany",
+        "position": "abstain"
+      },
+      {
+        "name": "Castellana",
+        "position": "abstain"
+      },
+      {
+        "name": "Baró",
+        "position": "abstain"
+      },
+      {
+        "name": "Coronas",
+        "position": "abstain"
+      },
+      {
+        "name": "Suriñach",
+        "position": "abstain"
+      }
+    ],
+    "verification_note": "L'acta identifica nominalment 10 vots contraris i 5 abstencions; els altres 26 membres voten a favor sense relació nominal en aquest extracte. No s'infereix partit a partir del nom."
   }
 ]
