@@ -425,5 +425,330 @@
       }
     ],
     "verification_note": "Acta oficial, pàgina 14: 25 a favor, 6 en contra i 10 abstencions; només s'atribueixen els vots nominals expressament indicats."
+  },
+  {
+    "id": "bcn-2025-01-31-m2327-2143",
+    "title": "Hub de continguts digitals en català, tecnologia, perspectiva de gènere i interseccionalitat (text transaccionat)",
+    "institution": "Ajuntament de Barcelona · Ple del Consell Municipal",
+    "date": "2025-01-31",
+    "topic": "Cultura i drets lingüístics",
+    "source_document": "Acta oficial del Ple ordinari del 31/01/2025, pàgina 10",
+    "source_url": "https://ajuntament.barcelona.cat/sites/default/files/2025-03/CPlenari-31-01-25-Acta_0.pdf",
+    "source_page": 10,
+    "totals": {
+      "yes": 35,
+      "no": 2,
+      "abstain": 4
+    },
+    "party_votes": [],
+    "individual_votes": [
+      {
+        "name": "de Oro-Pulido",
+        "position": "no"
+      },
+      {
+        "name": "Senderos",
+        "position": "no"
+      },
+      {
+        "name": "Sirera",
+        "position": "abstain"
+      },
+      {
+        "name": "Milián",
+        "position": "abstain"
+      },
+      {
+        "name": "Martí de Villasante",
+        "position": "abstain"
+      },
+      {
+        "name": "Esteller",
+        "position": "abstain"
+      }
+    ],
+    "verification_note": "APROVADA amb text transaccionat. Acta pàgina 10; 35 a favor, 2 en contra i 4 abstencions."
+  },
+  {
+    "id": "bcn-2025-01-31-m2327-2128",
+    "title": "Proposta de Vox de derogació de mesures d'habitatge, reserva del 30% i restriccions vinculades a la immigració",
+    "institution": "Ajuntament de Barcelona · Ple del Consell Municipal",
+    "date": "2025-01-31",
+    "topic": "Habitatge",
+    "source_document": "Acta oficial del Ple ordinari del 31/01/2025, pàgina 12",
+    "source_url": "https://ajuntament.barcelona.cat/sites/default/files/2025-03/CPlenari-31-01-25-Acta_0.pdf",
+    "source_page": 12,
+    "totals": {
+      "yes": 6,
+      "no": 35,
+      "abstain": 0
+    },
+    "party_votes": [],
+    "individual_votes": [
+      {
+        "name": "Collboni",
+        "position": "no"
+      },
+      {
+        "name": "Gay",
+        "position": "no"
+      },
+      {
+        "name": "Bonet",
+        "position": "no"
+      },
+      {
+        "name": "Batlle",
+        "position": "no"
+      },
+      {
+        "name": "Escudé",
+        "position": "no"
+      },
+      {
+        "name": "Villanueva",
+        "position": "no"
+      },
+      {
+        "name": "Rabell",
+        "position": "no"
+      },
+      {
+        "name": "Valls",
+        "position": "no"
+      },
+      {
+        "name": "Gil",
+        "position": "no"
+      },
+      {
+        "name": "Marcé",
+        "position": "no"
+      },
+      {
+        "name": "Martí Galbis",
+        "position": "no"
+      },
+      {
+        "name": "Munté",
+        "position": "no"
+      },
+      {
+        "name": "Alsina",
+        "position": "no"
+      },
+      {
+        "name": "Calvet",
+        "position": "no"
+      },
+      {
+        "name": "Ortega",
+        "position": "no"
+      },
+      {
+        "name": "Rius",
+        "position": "no"
+      },
+      {
+        "name": "Rodríguez",
+        "position": "no"
+      },
+      {
+        "name": "Laïlla",
+        "position": "no"
+      },
+      {
+        "name": "Tremosa",
+        "position": "no"
+      },
+      {
+        "name": "Vila",
+        "position": "no"
+      },
+      {
+        "name": "Lleó",
+        "position": "no"
+      },
+      {
+        "name": "Sanz",
+        "position": "no"
+      },
+      {
+        "name": "López",
+        "position": "no"
+      },
+      {
+        "name": "Tarafa",
+        "position": "no"
+      },
+      {
+        "name": "González",
+        "position": "no"
+      },
+      {
+        "name": "Martín",
+        "position": "no"
+      },
+      {
+        "name": "Serra",
+        "position": "no"
+      },
+      {
+        "name": "Recio",
+        "position": "no"
+      },
+      {
+        "name": "Gonzàlez",
+        "position": "no"
+      },
+      {
+        "name": "Rabassa",
+        "position": "no"
+      },
+      {
+        "name": "Alamany",
+        "position": "no"
+      },
+      {
+        "name": "Castellana",
+        "position": "no"
+      },
+      {
+        "name": "Baró",
+        "position": "no"
+      },
+      {
+        "name": "Coronas",
+        "position": "no"
+      },
+      {
+        "name": "Suriñach",
+        "position": "no"
+      }
+    ],
+    "verification_note": "REBUTJADA. Acta pàgina 12; 35 en contra i 6 a favor. El resultat rebutja la proposta, no aprova les mesures descrites."
+  },
+  {
+    "id": "bcn-2025-01-31-m2327-2138",
+    "title": "Declaració institucional sobre xarxes socials, desinformació i benestar digital",
+    "institution": "Ajuntament de Barcelona · Ple del Consell Municipal",
+    "date": "2025-01-31",
+    "topic": "Drets digitals",
+    "source_document": "Acta oficial del Ple ordinari del 31/01/2025, pàgina 13",
+    "source_url": "https://ajuntament.barcelona.cat/sites/default/files/2025-03/CPlenari-31-01-25-Acta_0.pdf",
+    "source_page": 13,
+    "totals": {
+      "yes": 15,
+      "no": 6,
+      "abstain": 20
+    },
+    "party_votes": [],
+    "individual_votes": [
+      {
+        "name": "Sirera",
+        "position": "no"
+      },
+      {
+        "name": "Milián",
+        "position": "no"
+      },
+      {
+        "name": "Martí de Villasante",
+        "position": "no"
+      },
+      {
+        "name": "Esteller",
+        "position": "no"
+      },
+      {
+        "name": "de Oro-Pulido",
+        "position": "no"
+      },
+      {
+        "name": "Senderos",
+        "position": "no"
+      },
+      {
+        "name": "Martí Galbis",
+        "position": "abstain"
+      },
+      {
+        "name": "Munté",
+        "position": "abstain"
+      },
+      {
+        "name": "Alsina",
+        "position": "abstain"
+      },
+      {
+        "name": "Calvet",
+        "position": "abstain"
+      },
+      {
+        "name": "Ortega",
+        "position": "abstain"
+      },
+      {
+        "name": "Rius",
+        "position": "abstain"
+      },
+      {
+        "name": "Rodríguez",
+        "position": "abstain"
+      },
+      {
+        "name": "Laïlla",
+        "position": "abstain"
+      },
+      {
+        "name": "Tremosa",
+        "position": "abstain"
+      },
+      {
+        "name": "Vila",
+        "position": "abstain"
+      },
+      {
+        "name": "Lleó",
+        "position": "abstain"
+      },
+      {
+        "name": "Sanz",
+        "position": "abstain"
+      },
+      {
+        "name": "López",
+        "position": "abstain"
+      },
+      {
+        "name": "Tarafa",
+        "position": "abstain"
+      },
+      {
+        "name": "González",
+        "position": "abstain"
+      },
+      {
+        "name": "Martín",
+        "position": "abstain"
+      },
+      {
+        "name": "Serra",
+        "position": "abstain"
+      },
+      {
+        "name": "Recio",
+        "position": "abstain"
+      },
+      {
+        "name": "Gonzàlez",
+        "position": "abstain"
+      },
+      {
+        "name": "Rabassa",
+        "position": "abstain"
+      }
+    ],
+    "verification_note": "APROVADA. Acta pàgina 13; 15 a favor, 6 en contra i 20 abstencions."
   }
 ]
