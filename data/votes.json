@@ -76,5 +76,259 @@
       }
     ],
     "verification_note": "L'acta identifica nominalment 10 vots contraris i 5 abstencions; els altres 26 membres voten a favor sense relació nominal en aquest extracte. No s'infereix partit a partir del nom."
+  },
+  {
+    "id": "bcn-2024-06-28-m2327-1383",
+    "title": "Retirada del protocol d'Allotjament Temporal Urgent i millora de l'atenció a l'emergència habitacional",
+    "institution": "Ajuntament de Barcelona · Ple del Consell Municipal",
+    "date": "2024-06-28",
+    "topic": "Habitatge",
+    "source_document": "Acta oficial del Ple 2024-06-28 · expedient M2327/1383",
+    "source_url": "https://ajuntament.barcelona.cat/sites/default/files/2024-07/CPlenari-28-06-2024-ACTA.pdf",
+    "totals": {
+      "yes": 25,
+      "no": 12,
+      "abstain": 4
+    },
+    "party_votes": [],
+    "individual_votes": [
+      {
+        "name": "Collboni",
+        "position": "no"
+      },
+      {
+        "name": "Gay",
+        "position": "no"
+      },
+      {
+        "name": "Bonet",
+        "position": "no"
+      },
+      {
+        "name": "Batlle",
+        "position": "no"
+      },
+      {
+        "name": "Escudé",
+        "position": "no"
+      },
+      {
+        "name": "Villanueva",
+        "position": "no"
+      },
+      {
+        "name": "Rabell",
+        "position": "no"
+      },
+      {
+        "name": "Valls",
+        "position": "no"
+      },
+      {
+        "name": "Gil",
+        "position": "no"
+      },
+      {
+        "name": "Marcé",
+        "position": "no"
+      },
+      {
+        "name": "de Oro-Pulido",
+        "position": "no"
+      },
+      {
+        "name": "Senderos",
+        "position": "no"
+      },
+      {
+        "name": "Sirera",
+        "position": "abstain"
+      },
+      {
+        "name": "Milián",
+        "position": "abstain"
+      },
+      {
+        "name": "Martí de Villasante",
+        "position": "abstain"
+      },
+      {
+        "name": "Esteller",
+        "position": "abstain"
+      }
+    ],
+    "verification_note": "Vots contraris i abstencions nominals transcrits de l'acta; els favorables consten com la resta de membres, sense atribució nominal."
+  },
+  {
+    "id": "bcn-2025-01-31-m2327-2137",
+    "title": "Proposició sobre governança municipal i manca d'acords",
+    "institution": "Ajuntament de Barcelona · Ple del Consell Municipal",
+    "date": "2025-01-31",
+    "topic": "Governança i transparència",
+    "source_document": "Acta oficial del Ple 2025-01-31 · expedient M2327/2137",
+    "source_url": "https://ajuntament.barcelona.cat/sites/default/files/2025-03/CPlenari-31-01-25-Acta_0.pdf",
+    "totals": {
+      "yes": 24,
+      "no": 12,
+      "abstain": 5
+    },
+    "party_votes": [],
+    "individual_votes": [
+      {
+        "name": "Collboni",
+        "position": "no"
+      },
+      {
+        "name": "Gay",
+        "position": "no"
+      },
+      {
+        "name": "Bonet",
+        "position": "no"
+      },
+      {
+        "name": "Batlle",
+        "position": "no"
+      },
+      {
+        "name": "Escudé",
+        "position": "no"
+      },
+      {
+        "name": "Villanueva",
+        "position": "no"
+      },
+      {
+        "name": "Rabell",
+        "position": "no"
+      },
+      {
+        "name": "Valls",
+        "position": "no"
+      },
+      {
+        "name": "Gil",
+        "position": "no"
+      },
+      {
+        "name": "Marcé",
+        "position": "no"
+      },
+      {
+        "name": "de Oro-Pulido",
+        "position": "no"
+      },
+      {
+        "name": "Senderos",
+        "position": "no"
+      },
+      {
+        "name": "Alamany",
+        "position": "abstain"
+      },
+      {
+        "name": "Castellana",
+        "position": "abstain"
+      },
+      {
+        "name": "Baró",
+        "position": "abstain"
+      },
+      {
+        "name": "Coronas",
+        "position": "abstain"
+      },
+      {
+        "name": "Suriñach",
+        "position": "abstain"
+      }
+    ],
+    "verification_note": "Vots contraris i abstencions nominals transcrits de l'acta; els favorables consten com la resta de membres, sense atribució nominal."
+  },
+  {
+    "id": "bcn-2025-01-31-m2327-2141",
+    "title": "Reserva de crèdit per completar la connexió del tramvia fins a Francesc Macià",
+    "institution": "Ajuntament de Barcelona · Ple del Consell Municipal",
+    "date": "2025-01-31",
+    "topic": "Mobilitat",
+    "source_document": "Acta oficial del Ple 2025-01-31 · expedient M2327/2141",
+    "source_url": "https://ajuntament.barcelona.cat/sites/default/files/2025-03/CPlenari-31-01-25-Acta_0.pdf",
+    "totals": {
+      "yes": 24,
+      "no": 17,
+      "abstain": 0
+    },
+    "party_votes": [],
+    "individual_votes": [
+      {
+        "name": "Martí Galbis",
+        "position": "no"
+      },
+      {
+        "name": "Munté",
+        "position": "no"
+      },
+      {
+        "name": "Alsina",
+        "position": "no"
+      },
+      {
+        "name": "Calvet",
+        "position": "no"
+      },
+      {
+        "name": "Ortega",
+        "position": "no"
+      },
+      {
+        "name": "Rius",
+        "position": "no"
+      },
+      {
+        "name": "Rodríguez",
+        "position": "no"
+      },
+      {
+        "name": "Laïlla",
+        "position": "no"
+      },
+      {
+        "name": "Tremosa",
+        "position": "no"
+      },
+      {
+        "name": "Vila",
+        "position": "no"
+      },
+      {
+        "name": "Lleó",
+        "position": "no"
+      },
+      {
+        "name": "Sirera",
+        "position": "no"
+      },
+      {
+        "name": "Milián",
+        "position": "no"
+      },
+      {
+        "name": "Martí de Villasante",
+        "position": "no"
+      },
+      {
+        "name": "Esteller",
+        "position": "no"
+      },
+      {
+        "name": "de Oro-Pulido",
+        "position": "no"
+      },
+      {
+        "name": "Senderos",
+        "position": "no"
+      }
+    ],
+    "verification_note": "Vots contraris i abstencions nominals transcrits de l'acta; els favorables consten com la resta de membres, sense atribució nominal."
   }
 ]
