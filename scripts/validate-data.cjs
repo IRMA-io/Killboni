@@ -9,6 +9,8 @@ for (const [i,r] of rows.entries()) {
   const tag = 'row '+(i+1);
   for(const k of ['id','title','institution','topic','source_document','source_url','date'])
     assert(typeof r[k]==='string' && r[k].trim(),tag+': missing '+k);
+  assert(['approved','approved_amended','rejected'].includes(r.outcome),tag+': invalid or missing outcome');
+  assert(Number.isInteger(r.source_page) && r.source_page>0,tag+': missing act page');
   assert(!ids.has(r.id),tag+': duplicate id');
   ids.add(r.id);
   assert(/^\d{4}-\d{2}-\d{2}$/.test(r.date) && !Number.isNaN(Date.parse(r.date)),tag+': invalid date');
