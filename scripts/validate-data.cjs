@@ -11,7 +11,7 @@ for (const [i,r] of rows.entries()) {
     assert(typeof r[k]==='string' && r[k].trim(),tag+': missing '+k);
   assert(!ids.has(r.id),tag+': duplicate id');
   ids.add(r.id);
-  assert(/^\\d{4}-\\d{2}-\\d{2}$/.test(r.date) && !Number.isNaN(Date.parse(r.date)),tag+': invalid date');
+  assert(/^\d{4}-\d{2}-\d{2}$/.test(r.date) && !Number.isNaN(Date.parse(r.date)),tag+': invalid date');
   assert(/Ajuntament de Barcelona|Consell Municipal|Barcelona/.test(r.institution),tag+': not a Barcelona municipal record');
   assert(new URL(r.source_url).protocol==='https:',tag+': source must be HTTPS');
   assert(Array.isArray(r.party_votes),tag+': party_votes must be an array');
