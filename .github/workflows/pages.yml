@@ -19,6 +19,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+      - name: Validate Barcelona municipal data
+        run: node scripts/validate-data.cjs
       - name: Configure Pages
         uses: actions/configure-pages@v5
       - name: Upload static site
