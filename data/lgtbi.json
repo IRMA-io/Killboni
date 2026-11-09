@@ -1,0 +1,91 @@
+{
+  "reviewed": "2026-11-09",
+  "coverage": "Mostra inicial no exhaustiva del mandat 2023–2027",
+  "records": [
+    {
+      "id": "ple-2024-06-28-di3",
+      "date": "2024-06-28",
+      "scope": "Ple municipal",
+      "type": "Declaració institucional",
+      "topic": "Drets laborals i recursos",
+      "title": "Recursos municipals i ocupació sense discriminació LGTBI",
+      "summary": "Compromís d’ampliar recursos, prevenir discriminacions i reforçar la inclusió laboral, amb atenció a les dones trans.",
+      "outcome": "Aprovada",
+      "proposer": null,
+      "positions": {
+        "PSC": "support",
+        "Junts": "support",
+        "Barcelona en Comú": "support",
+        "ERC": "support",
+        "PP": "unknown",
+        "VOX": "unknown"
+      },
+      "source": "https://ajuntament.barcelona.cat/sites/default/files/2024-07/CPlenari-28-06-2024-ACTA.pdf",
+      "pages": "22–23",
+      "note": "L’acta enumera quatre grups amb posicionament favorable. No explicita el sentit de PP i VOX: no se’ls assigna un vot contrari ni una abstenció.",
+      "execution": "Sense comprovació d’execució"
+    },
+    {
+      "id": "comissio-2024-06-18-m2327-1322",
+      "date": "2024-06-18",
+      "scope": "Comissió municipal",
+      "type": "Prec",
+      "topic": "Serveis de proximitat",
+      "title": "Acostar el Centre LGTBI als districtes",
+      "summary": "Junts demana punts de proximitat del Centre LGTBI als districtes. El prec consta com a acceptat.",
+      "outcome": "Acceptat",
+      "proposer": "Junts",
+      "positions": {},
+      "source": "https://ajuntament.barcelona.cat/sites/default/files/2024-07/CDrets%20Socials-18-06-2024-ACTA.pdf",
+      "pages": "17",
+      "note": "Un prec acceptat expressa una resposta del govern. No és una votació de tots els grups ni acredita que els punts ja funcionin.",
+      "execution": "Sense comprovació d’execució"
+    },
+    {
+      "id": "lescorts-2024-05-16-di1",
+      "date": "2024-05-16",
+      "scope": "Les Corts",
+      "type": "Declaració institucional",
+      "topic": "Prevenció de l’LGTBI-fòbia",
+      "title": "Prevenció de discriminacions i suport a les víctimes a les Corts",
+      "summary": "Declaració per reforçar prevenció, atenció a víctimes, formació i accés als serveis, amb mesures d’inclusió laboral.",
+      "outcome": "Aprovada",
+      "proposer": null,
+      "positions": {
+        "PSC": "support",
+        "Junts": "support",
+        "Barcelona en Comú": "support",
+        "ERC": "support",
+        "PP": "support",
+        "VOX": "against"
+      },
+      "source": "https://ajuntament.barcelona.cat/lescorts/sites/default/files/plenari/actes/acta_consell_del_districte_del_16-05-2024_signada.pdf",
+      "pages": "6–7",
+      "note": "Posicionaments explícits del Consell de Districte. No s’extrapolen al Ple municipal.",
+      "execution": "Sense comprovació d’execució"
+    },
+    {
+      "id": "santandreu-2024-05-15-di1",
+      "date": "2024-05-15",
+      "scope": "Sant Andreu",
+      "type": "Declaració institucional",
+      "topic": "Prevenció de l’LGTBI-fòbia",
+      "title": "Igualtat de tracte i prevenció de l’LGTBI-fòbia a Sant Andreu",
+      "summary": "Declaració de suport a la diversitat, l’atenció a les víctimes, la sensibilització i l’accés igualitari als serveis municipals.",
+      "outcome": "Aprovada amb text transaccionat",
+      "proposer": null,
+      "positions": {
+        "PSC": "support",
+        "Junts": "support",
+        "Barcelona en Comú": "support",
+        "ERC": "support",
+        "PP": "support",
+        "VOX": "against"
+      },
+      "source": "https://ajuntament.barcelona.cat/santandreu/sites/default/files/plenari/actes/acta_sessio_ordinaria_15052024_signada.pdf",
+      "pages": "7–8",
+      "note": "Posicionaments explícits del Consell de Districte, sobre el text transaccionat. No són vots del Ple municipal.",
+      "execution": "Sense comprovació d’execució"
+    }
+  ]
+}
